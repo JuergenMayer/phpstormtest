@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="6e6103db-0a4c-4608-b240-5029fafd230d" name="phpstorm" url="localhost/phpstormtest">
+        <fileTransfer rootFolder="/var/www/vhosts/websitestatus.de/phpstorm.websitestatus.de" accessType="SFTP" host="websitestatus.de" port="22" sshConfigId="96a679cf-e6c9-4a95-af26-d3eb5a26f15c" sshConfig="root@websitestatus.de:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
