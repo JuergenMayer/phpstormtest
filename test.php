@@ -17,7 +17,7 @@
   <h1>test 5</h1>
 
 <?php $message = "Hallo World1";
-$rechnung = (2+4)/3;
+$rechnung = (2+4)/35;
 echo $message;
 echo $rechnung;
 echo "Hallo"?>
