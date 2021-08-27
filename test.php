@@ -19,6 +19,7 @@
 <?php $message = "Hallo World";
 $rechnung = 2+4;
 echo $message;
-echo $rechnung ?>
+echo $rechnung;
+echo "Hallo"?>
 </body>
 </html>
